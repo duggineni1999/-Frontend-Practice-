@@ -5,7 +5,7 @@ A polished replica of the Britannica website using HTML, CSS, Bootstrap, and Jav
 
 🔗 Key Features:
 
-Sleek Design: Replicating Polygon's modern and intuitive design for a seamless user experience.
+Sleek Design: Replicating Britannica's modern and intuitive design for a seamless user experience.
 Responsive: Built with Bootstrap, ensuring smooth functionality across various devices and screen sizes.
 Interactive Elements: Utilizing JavaScript for dynamic and engaging user interactions.
 ]
