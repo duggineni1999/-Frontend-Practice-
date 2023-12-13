@@ -1,7 +1,7 @@
 # Britannica
 🚀 Britannica Website Clone
 
-A polished replica of the Polygon website using HTML, CSS, Bootstrap, and JavaScript. Dive into the world of blockchain and decentralized finance with our visually appealing and responsive interface.
+A polished replica of the Britannica website using HTML, CSS, Bootstrap, and JavaScript. Dive into the world of tech and news articles and decentralized finance with our visually appealing and responsive interface.
 
 🔗 Key Features:
 
